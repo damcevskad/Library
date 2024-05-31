@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1C6E34-80E7-4962-9E20-22EB793A77E3}|Library.Tests\\Library.Tests.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.tests\\unittests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1C6E34-80E7-4962-9E20-22EB793A77E3}|Library.Tests\\Library.Tests.csproj|solutionrelative:library.tests\\unittests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1C6E34-80E7-4962-9E20-22EB793A77E3}|Library.Tests\\Library.Tests.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.tests\\unittests\\authortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1C6E34-80E7-4962-9E20-22EB793A77E3}|Library.Tests\\Library.Tests.csproj|solutionrelative:library.tests\\unittests\\authortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Migrations\\20240531132047_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library.Data\\Migrations\\20240531132047_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9019C306-B651-4578-A956-36EAD142049C}|Library.WebApi\\Library.WebApi.csproj|solutionrelative:library.webapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\profiles\\bookprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\profiles\\authorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.service\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85305BE2-527B-472C-A6F2-A5A5DB1BBFDA}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\interfaces\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|c:\\users\\zikov\\onedrive\\desktop\\library\\library.data\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D4CABE-73EA-42CF-A2B8-129B063B7E92}|Library.Data\\Library.Data.csproj|solutionrelative:library.data\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library.WebApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library.WebApi\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:25:48.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Services\\AuthorService.cs",
+              "RelativeToolTip": "Library.Service\\Services\\AuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:22:36.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\DTO\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Library.Service\\DTO\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\DTO\\BookDTO.cs",
+              "RelativeToolTip": "Library.Service\\DTO\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:23:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Library.Data\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:17:46.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Library.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\Program.cs",
+              "RelativeToolTip": "Library.WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:14:20.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorTests.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Tests\\UnitTests\\AuthorTests.cs",
+              "RelativeDocumentMoniker": "Library.Tests\\UnitTests\\AuthorTests.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Tests\\UnitTests\\AuthorTests.cs",
+              "RelativeToolTip": "Library.Tests\\UnitTests\\AuthorTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDQAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:25:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Entities\\Author.cs",
+              "RelativeToolTip": "Library.Data\\Entities\\Author.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:16:40.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookTests.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Tests\\UnitTests\\BookTests.cs",
+              "RelativeDocumentMoniker": "Library.Tests\\UnitTests\\BookTests.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Tests\\UnitTests\\BookTests.cs",
+              "RelativeToolTip": "Library.Tests\\UnitTests\\BookTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:25:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Entities\\Book.cs",
+              "RelativeToolTip": "Library.Data\\Entities\\Book.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:16:32.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Library.WebApi\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Library.WebApi\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:25:39.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240531132047_initial.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Migrations\\20240531132047_initial.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Migrations\\20240531132047_initial.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Migrations\\20240531132047_initial.cs",
+              "RelativeToolTip": "Library.Data\\Migrations\\20240531132047_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T13:20:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Profiles\\BookProfile.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Profiles\\BookProfile.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Profiles\\BookProfile.cs",
+              "RelativeToolTip": "Library.Service\\Profiles\\BookProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:22:24.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Library.Data\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:18:01.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Profiles\\AuthorProfile.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Profiles\\AuthorProfile.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Profiles\\AuthorProfile.cs",
+              "RelativeToolTip": "Library.Service\\Profiles\\AuthorProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:22:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Services\\BookService.cs",
+              "RelativeToolTip": "Library.Service\\Services\\BookService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:22:46.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Library.Service\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:22:59.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Library.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.WebApi\\appsettings.json",
+              "RelativeToolTip": "Library.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T13:15:54.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Interfaces\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\Interfaces\\IAuthorService.cs",
+              "RelativeToolTip": "Library.Service\\Interfaces\\IAuthorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:23:25.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\DTO\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "Library.Service\\DTO\\AuthorDTO.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Service\\DTO\\AuthorDTO.cs",
+              "RelativeToolTip": "Library.Service\\DTO\\AuthorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:23:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Library.Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Library.Data\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:40:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Interfaces\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Interfaces\\IAuthorRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Interfaces\\IAuthorRepository.cs",
+              "RelativeToolTip": "Library.Data\\Interfaces\\IAuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:17:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Library.Data\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\zikov\\OneDrive\\Desktop\\Library\\Library.Data\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Library.Data\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:17:33.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
